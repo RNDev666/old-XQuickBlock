@@ -23,7 +23,7 @@
 2. **Install from Source:**
    - Clone this repository:
      ```bash
-     git clone https://github.com/bezalel6/XQuickBlock.git
+     git clone https://github.com/RNDev666/XQuickBlock.git
      ```
    - Open Chrome and navigate to `chrome://extensions/`.
    - Enable "Developer mode" at the top right corner.
